@@ -51,7 +51,6 @@ print("Welcome to Dark Forest")
 print("Your mission is to get out of this dark place.")
 #https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Treasure%20Island%20Conditional.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1oDe4ehjWZipYRsVfeAx2HyB7LCQ8_Fvi%26export%3Ddownload
 
-#Write your code below this line 👇
 direction = input(
     "You are in a dark forest and you see two paths ahead of you. The first takes you to the left and the other to the right. Which direction would you go? Be careful or you might get hurt. Type left or right\n"
 )
