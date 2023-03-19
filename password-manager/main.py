@@ -36,7 +36,7 @@ def password_generator():
     if len(password_entry.get()) > 0:
         password_entry.delete(0, END)
     password_entry.insert(0, password)
-
+    pyperclip.copy(password)
 
 # ---------------------------- SAVE PASSWORD ------------------------------- #
 def save():
